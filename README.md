@@ -1,0 +1,2 @@
+# getDeviceInfo
+getDeviceInfo
